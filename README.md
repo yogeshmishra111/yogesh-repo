@@ -1,4 +1,4 @@
 yogesh-repo
 ===========
 
-Its my first repository.
+Description: This is my first repo being created for testing purpose.
